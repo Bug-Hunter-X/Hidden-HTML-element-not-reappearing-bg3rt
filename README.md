@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in HTML where a hidden element fails to reappear after a user interaction.  The bug involves improperly managing the display state of an HTML element. The solution provides a corrected version.
